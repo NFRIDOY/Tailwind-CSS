@@ -1,0 +1,12 @@
+echo "# Tailwind-CSS" >> README.md
+git init
+git add .
+git commit -m "Tailwind-CSS Initiative"
+git branch -M main
+git remote add origin https://github.com/NFRIDOY/Tailwind-CSS.git
+git push -u origin main
+------------------------------
+
+git remote add origin https://github.com/NFRIDOY/Tailwind-CSS.git
+git branch -M main
+git push -u origin main
